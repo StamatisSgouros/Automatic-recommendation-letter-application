@@ -1,0 +1,127 @@
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\Users\Stamatis\Desktop\Τεχνολογια Λογισμικου\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojResolveAssemblyReference.cache
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.Cache
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojResolveAssemblyReference.cache
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou1\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.Cache
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+C:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CopyComplete
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+E:\ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ\ΣΤ' ΕΞΑΜΗΝΟ\ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CopyComplete
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\Users\Stamatis\Desktop\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojResolveAssemblyReference.cache
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+F:\ergasia_tel\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.Cache
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+C:\Users\Stamatis\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CopyComplete
+F:\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+F:\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+F:\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+F:\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+F:\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojResolveAssemblyReference.cache
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.Cache
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+F:\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CopyComplete
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+C:\Users\Admin\Desktop\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe.config
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.exe
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\Texnologia_logismikou.pdb
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.dll
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\bin\Debug\itextsharp.xml
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csprojAssemblyReference.cache
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form1.resources
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Form2.resources
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.Properties.Resources.resources
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.GenerateResource.cache
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CoreCompileInputs.cache
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.csproj.CopyComplete
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.exe
+D:\ΠΑ.ΠΕΙ\6o_Εξάμηνο\Τεχνολογία Λογισμικού\Texnologia_logismikou\Texnologia_logismikou\Texnologia_logismikou\obj\Debug\Texnologia_logismikou.pdb
